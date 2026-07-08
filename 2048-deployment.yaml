@@ -14,7 +14,7 @@ spec:
         app: "frontend"
     spec:
       containers:
-      - image: 656853518200.dkr.ecr.ap-south-1.amazonaws.com/suraj-cicd:4
+      - image: 764553891844.dkr.ecr.ap-south-2.amazonaws.com/sanket-dev:latest
         imagePullPolicy: Always
         name: "frontend"
         ports:
